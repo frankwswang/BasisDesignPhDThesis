@@ -1,10 +1,18 @@
 cff-version: 1.2.0
 message: "Cite the DCC paper if you reference any of its results for your research"
+version: "v1"
 authors:
 - family-names: "Wang"
   given-names: "Weishi"
   orcid: "https://orcid.org/0000-0003-0208-5303"
 title: "Basis Design for Electronic Structure and Beyond"
-version: "v1.0.0"
-date-released: 2026-03-20
-url: "https://digitalcommons.dartmouth.edu/dissertations/464/"
+preferred-citation:
+  authors:
+    - family-names: "Wang"
+      given-names: "Weishi"
+  title: "Basis Design for Electronic Structure and Beyond"
+  journal: "Dartmouth Digital Commons"
+  type: article
+  month: 3
+  year: 2026
+  url: "https://digitalcommons.dartmouth.edu/dissertations/464/"
